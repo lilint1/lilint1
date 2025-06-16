@@ -10,7 +10,7 @@
 </div>  
 
 ## Top repositories
-  <a href="https://github.com/lilint1">
+  <a href="https://github.com/lilint1/qualiagua.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lilint1&repo=qualiagua&theme=buefy" />
   </a>
 
