@@ -1,7 +1,6 @@
 ## Hi there, I'm Lili 👋
 
-- 🌱 I'm a undergraduate student in Environmental Engineering
-- 💻 Learning: data science applied to environmental challenges
+🌱 I'm a undergraduate student in Environmental Engineering
 
 ## Tech & Tools
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
