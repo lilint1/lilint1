@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/lilint1">
-  <img height= "150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lilint1&layout=compact&hide_border=true&theme=shadow_blue&card_width=400"/> 
+  <img height= "150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lilint1&layout=compact&hide_border=false&theme=catppuccin_latte&card_width=400"/> 
   </a>
 </div>  
 
