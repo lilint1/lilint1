@@ -1,6 +1,7 @@
-## Hi there, I'm Lili 👋
+## Hi there, I'm Lili 
 
-🌱 I'm a undergraduate student in Environmental Engineering
+* 🌱 Environmental Engineering student
+* 💻 Learning data science
 
 ## Tech & Tools
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
